@@ -16,6 +16,7 @@ artifacts:
   files:
     - web.py
     - appspec.yml
+    - *.html
     - templates/layout.html
     - templates/test.html
     - templates/index.html
