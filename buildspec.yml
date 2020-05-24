@@ -22,4 +22,13 @@ artifacts:
     - scripts/start_flask.sh
     - scripts/stop_flask1.sh
     - scripts/stop_flask.py
-    - 'images/**'
+    - 'scss/*'
+    - 'css/**/*'
+    - 'font-awesome/**/*'
+    - 'fonts/**/*'
+    - 'bootstrap/**/*'
+    - 'images/**/*'
+    - 'img/*'
+    - 'js 2/*'
+    - 'js/*'
+    - 'sass/**/*'
