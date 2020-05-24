@@ -32,3 +32,4 @@ artifacts:
     - 'js 2/*'
     - 'js/*'
     - 'sass/**/*'
+    - '*.html'
